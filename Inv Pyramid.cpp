@@ -12,7 +12,7 @@
 //      *
 
 // Solution:
-
+// time complexity is n2
 #include <iostream>
 using namespace std;
 
